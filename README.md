@@ -1,8 +1,4 @@
 📌 AWS Solution Architect Simulation – Case Study
-Platform: Forage (AWS APAC Virtual Experience Program)
-Date: May 2025
-Status: Completed
-Upcoming Certification: Preparing for AWS Certified Developer – Associate
 
 🧠 Overview
 As part of the AWS APAC Solutions Architect virtual job simulation hosted on Forage, I stepped into the role of an AWS Solutions Architect to solve a real-world client challenge. The simulation was more than just a theoretical walkthrough — it involved critical thinking, cloud design decisions, cost analysis, and client-facing communication. It was one of the most engaging and hands-on cloud projects I’ve worked on to date.
